@@ -36,9 +36,3 @@ ground station taking up to four daughterboards.
 A **Vorstand**, a **Technisches Gremium** led by the Oberster Technischer Leiter, and five
 **Arbeitsgruppen**: Antrieb & Startsysteme, Raketenkörper, Elektronik, Landesysteme,
 Nutzlast.
-
-## Find us
-
-[sprog-ev.de](https://sprog-ev.de/en/) · vorstand@sprog-ev.de ·
-Instagram [@sprog.ev](https://instagram.com/sprog.ev) ·
-YouTube [@SPROG-eV](https://youtube.com/@SPROG-eV) · LinkedIn · Discord
